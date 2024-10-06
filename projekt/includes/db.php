@@ -3,7 +3,7 @@
 $host = 'localhost';
 $user = 'root';
 $password = '';
-$dbname = 'pdf_managment';
+$dbname = 'pdf_management';
 
 $conn = new mysqli($host, $user, $password, $dbname);
 
